@@ -1,0 +1,10 @@
+:root {
+  --color-bg: #0d0718; --color-surface: #17102a; --color-surface-raised: #21163a;
+  --color-text: #f7f3ff; --color-muted: #aaa0be; --color-purple: #7c3aed;
+  --color-purple-light: #a879ff; --color-orange: #f97316; --color-orange-light: #fb923c;
+  --color-whatsapp: #25d366; --color-line: rgba(225, 211, 255, .12);
+  --font-sans: 'Inter', system-ui, sans-serif; --font-mono: 'JetBrains Mono', monospace;
+  --content-width: 1180px; --header-height: 82px; --radius-sm: 8px; --radius-md: 14px;
+  --radius-lg: 18px; --transition: 220ms ease;
+  color-scheme: dark; font-family: var(--font-sans);
+}
